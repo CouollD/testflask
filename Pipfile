@@ -9,6 +9,8 @@ verify_ssl = true
 flask = "*"
 peewee = "*"
 pymysql = "*"
+mysql = "*"
+flask-mysql = "*"
 
 [requires]
 python_version = "3.8"
